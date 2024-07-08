@@ -10,4 +10,5 @@ Spacy, sci-kit learn, scipy
 
 # Data
 SMS & e-mail sets: Kaggle
+
 Instagram comments: I collected from top instagram accounts, e.g. Kim Kardashian, Cristiano Ronaldo, etc.
